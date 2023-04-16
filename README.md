@@ -3,6 +3,8 @@ A game I made in 2019 of which I was really proud at the time.
 
 2023 description: You are the Scratch cat. You must defeat a bunch of zombies to save a girl. You have a surprise at the end.
 
+Blog: https://icethedev2.github.io/
+
 ## How to run
 Run the .sb2 file in Scratch 2 or later.
 
